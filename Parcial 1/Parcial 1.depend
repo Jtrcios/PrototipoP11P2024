@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1709118580 source:c:\users\usuario\desktop\parciales\prototipop11p2024\parcial 1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+
